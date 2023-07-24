@@ -23,6 +23,18 @@
 11.in case of ssl error use below
 	$ git config --global http.sslVerify false
 
+
+echo "# payal3" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/payalpatole/payal3.git
+git push -u origin main
+
+12. make a branch 
+	git branch prod
+
  
  
 
