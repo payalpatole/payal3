@@ -1,0 +1,13 @@
+1. Right click in your folder
+2. Select "open gitbash here"
+3. Use the below command to initialise the git
+	git init
+4. Use  the command  to add files
+	git add hello.txt
+	
+git config --global user.name "payalpatole"
+
+git config --global user.email "patole.payal@gmail.com"
+
+
+	
