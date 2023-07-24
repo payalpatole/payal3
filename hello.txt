@@ -5,14 +5,25 @@
 4. Use  the command  to add files
 	git add hello.txt
 	
-git config --global user.name "payalpatole"
-
-git config --global user.email "patole.payal@gmail.com"
+	git config --global user.name "payalpatole"
+	
+	git config --global user.email "patole.payal@gmail.com"
 
 5. To add multiple files at once, use cmd
 	git add *
 6. To commit, write the below	
- git commit -m "My git commits"
+	git commit -m "My git commits"
+7. to check status
+	git status
+9. to connect to origin
+	$ git remote add origin "https://github.com/payalpatole/payal.git"
+10. set origin
+		$ git pull origin master
+		
+11.in case of ssl error use below
+	$ git config --global http.sslVerify false
 
+ 
+ 
 
 	
