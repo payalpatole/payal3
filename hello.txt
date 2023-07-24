@@ -9,5 +9,10 @@ git config --global user.name "payalpatole"
 
 git config --global user.email "patole.payal@gmail.com"
 
+5. To add multiple files at once, use cmd
+	git add *
+6. To commit, write the below	
+ git commit -m "My git commits"
+
 
 	
